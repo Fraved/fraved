@@ -27,4 +27,4 @@
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white&labelColor=101010)]()
 
 ---
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Frave07.Frave07)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Fraved.Fraved)
